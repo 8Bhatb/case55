@@ -1,0 +1,712 @@
+[
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app",
+        {
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505570015029,
+            "changeTime": 1505570015029,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505570015029,
+            "changeTime": 1505570015029,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533783,
+            "changeTime": 1505573533783,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505570015029,
+            "changeTime": 1505570015029,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55",
+        {
+            "sourcePath": "C:\\Users\\root\\case55\\case55",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505570193352,
+            "changeTime": 1505570193352,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4945,
+            "modifiedTime": 1505573533410,
+            "changeTime": 1505573533410,
+            "contentHash": "bf46c98caa465c45ebbeea459dbea6321a76ddd8"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1505573533414,
+            "changeTime": 1505573533414,
+            "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1505573533417,
+            "changeTime": 1505573533417,
+            "contentHash": "84c07618a25ba4a26dcbb7fdea901e9cfb7bdfea"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1505573533423,
+            "changeTime": 1505573533423,
+            "contentHash": "d7e98ed90f81499c3b80a6121310c8e81353db12"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1505573533427,
+            "changeTime": 1505573533427,
+            "contentHash": "104e9a00a8886c6a98a247cf4d799fca91cb5cf6"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1505573533429,
+            "changeTime": 1505573533429,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1505573533436,
+            "changeTime": 1505573533436,
+            "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1505573533440,
+            "changeTime": 1505573533440,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1505573533444,
+            "changeTime": 1505573533444,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1505573533449,
+            "changeTime": 1505573533449,
+            "contentHash": "59513f0c3aba9cf2ca1fa13dd33c44eba996ef42"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1505573533455,
+            "changeTime": 1505573533455,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1505573533460,
+            "changeTime": 1505573533460,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1505573533471,
+            "changeTime": 1505573533471,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1505573533475,
+            "changeTime": 1505573533475,
+            "contentHash": "0bf76b491bbd8c15dd147134365be4f3c3f46c31"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1505573533497,
+            "changeTime": 1505573533497,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1505573533504,
+            "changeTime": 1505573533504,
+            "contentHash": "bf772125c4e77a1bdb5997c83c7915babf266330"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 159,
+            "modifiedTime": 1505573533510,
+            "changeTime": 1505573533510,
+            "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1505573533530,
+            "changeTime": 1505573533530,
+            "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1505573533538,
+            "changeTime": 1505573533538,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 943,
+            "modifiedTime": 1505573533544,
+            "changeTime": 1505573533544,
+            "contentHash": "7ab95b0a1b0c2d75a772d9ea83361375e19db83e"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1505573533563,
+            "changeTime": 1505573533563,
+            "contentHash": "2aee360d036169b3a3b599183c72b43d549f6b61"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1505573533571,
+            "changeTime": 1505573533571,
+            "contentHash": "877087142debc4ed3ae3ae152908d60f1e5b8e4e"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1505573533575,
+            "changeTime": 1505573533575,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1505573533579,
+            "changeTime": 1505573533579,
+            "contentHash": "dd9820d5134fc39ed321237cbdef5a60b5776771"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1505573533603,
+            "changeTime": 1505573533603,
+            "contentHash": "3d50c3aaf57f7e42a001693e02e91ae0222af0e8"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1505573533610,
+            "changeTime": 1505573533610,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1505573533636,
+            "changeTime": 1505573533636,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1505573533643,
+            "changeTime": 1505573533643,
+            "contentHash": "7252f1ae0d0fff985c8d3d75c2c66b704d304262"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Testfield__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Testfield__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1505573533669,
+            "changeTime": 1505573533669,
+            "contentHash": "b081e71adf4d4ed7c070f9d100443dfb48773ce1"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1505573533675,
+            "changeTime": 1505573533675,
+            "contentHash": "8a48fbd36a0119a80ca1a7b0a48a57b35bd03141"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1505573533681,
+            "changeTime": 1505573533681,
+            "contentHash": "b1890d7f9fe00ddd4a6dc20150314c3e5cc7bac9"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1505573533705,
+            "changeTime": 1505573533705,
+            "contentHash": "f4296d09b623a562e0d0769e8eec6c0c40529c1f"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\MyContacts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\MyContacts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1505573533712,
+            "changeTime": 1505573533712,
+            "contentHash": "97534343a3a56570c391065168b4b317964498a8"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\NewLastWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1505573533717,
+            "changeTime": 1505573533717,
+            "contentHash": "926e72493feb4edbe83f4d15bf8f65c0ed16f06f"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1505573533738,
+            "changeTime": 1505573533738,
+            "contentHash": "8f5af3e68ca4a765b1e8289468b3bed022fc9488"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9930,
+            "modifiedTime": 1505573533749,
+            "changeTime": 1505573533749,
+            "contentHash": "9628736a40b9a16f8d3be63ecb245b926e7c122f"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9591,
+            "modifiedTime": 1505573533753,
+            "changeTime": 1505573533753,
+            "contentHash": "f0288f0d62125c3222fe04498ca2dcc196045eca"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9882,
+            "modifiedTime": 1505573533774,
+            "changeTime": 1505573533774,
+            "contentHash": "7ec0f6ff93eb5b61e9862ace105cd73db4e646c9"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9930,
+            "modifiedTime": 1505573533782,
+            "changeTime": 1505573533782,
+            "contentHash": "72d6ecd6f4ea5e6d1fabc4a48d6e5c943a107f2e"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8387,
+            "modifiedTime": 1505573533787,
+            "changeTime": 1505573533787,
+            "contentHash": "12f690173e12dd26d432ea0fc88abc10788b6a2c"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8383,
+            "modifiedTime": 1505573533808,
+            "changeTime": 1505573533808,
+            "contentHash": "4409ef1c6f156b34047197b09fa6b72338e77617"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20955,
+            "modifiedTime": 1505573533816,
+            "changeTime": 1505573533816,
+            "contentHash": "11613312207b109b1473d9c61ccc45c31a95c7fa"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8723,
+            "modifiedTime": 1505573533821,
+            "changeTime": 1505573533821,
+            "contentHash": "2aade0e8d083e90f7b025847cc2abd4e10ab2f83"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533677,
+            "changeTime": 1505573533677,
+            "contentHash": "4768199c1f74b134d7c6bba8851d183a2e3df12c"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533395,
+            "changeTime": 1505573533395,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533669,
+            "changeTime": 1505573533669,
+            "contentHash": "f4315cf988b4025dbe63d5561da48b75aba5e5e0"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\objects\\Contact\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533719,
+            "changeTime": 1505573533719,
+            "contentHash": "fdd6e7e6e1dff4a43f0a13b94a9255c2aab9b3a1"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533775,
+            "changeTime": 1505573533775,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf"
+        }
+    ],
+    [
+        "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\root\\case55\\case55\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505573533817,
+            "changeTime": 1505573533817,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
